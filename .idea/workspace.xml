@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bc0bccd-61cd-4877-a22f-a406b721070a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1OkZbR1GzWOJy5XAHj9wp4PyzYY" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564303257688" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/petrjanik" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\janikp\Documents\Skola\2018-19-2\PV168_SZPVJJ\Demos\EffectiveJava\src\main\java\com\petrjanik" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.petrjanik" />
+      <recent name="com.petrjanik.package1" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.petrjanik" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DemoGeneric">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.petrjanik.Demo" />
+      <module name="EffectiveJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.petrjanik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoChooser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.petrjanik.DemoChooser" />
+      <module name="EffectiveJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.petrjanik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.petrjanik.DemoGeneric" />
+      <module name="EffectiveJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.petrjanik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.petrjanik.Main" />
+      <module name="EffectiveJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.petrjanik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.petrjanik.StackDemo" />
+      <module name="EffectiveJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.petrjanik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoGeneric" />
+        <item itemvalue="Application.StackDemo" />
+        <item itemvalue="Application.DemoChooser" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bc0bccd-61cd-4877-a22f-a406b721070a" name="Default Changelist" comment="" />
+      <created>1561279436991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561279436991</updated>
+      <workItem from="1561279441506" duration="7383000" />
+      <workItem from="1561624611346" duration="3360000" />
+      <workItem from="1562100065437" duration="1075000" />
+      <workItem from="1562190637628" duration="1500000" />
+      <workItem from="1562269360455" duration="5542000" />
+      <workItem from="1563001957359" duration="1029000" />
+      <workItem from="1563108231815" duration="3052000" />
+      <workItem from="1564301353116" duration="1620000" />
+      <workItem from="1564408060527" duration="22000" />
+      <workItem from="1564523633958" duration="943000" />
+      <workItem from="1564557507253" duration="382000" />
+      <workItem from="1564599907950" duration="1199000" />
+      <workItem from="1564834844986" duration="2786000" />
+      <workItem from="1564910202539" duration="3826000" />
+      <workItem from="1564990130452" duration="170000" />
+      <workItem from="1565324704143" duration="2301000" />
+      <workItem from="1565593640985" duration="19000" />
+      <workItem from="1565848629621" duration="1519000" />
+      <workItem from="1566052614585" duration="4834000" />
+      <workItem from="1567807484802" duration="706000" />
+      <workItem from="1567950192704" duration="94000" />
+      <workItem from="1567950674185" duration="1006000" />
+      <workItem from="1579854847679" duration="1679000" />
+      <workItem from="1579937352428" duration="7743000" />
+      <workItem from="1580123989109" duration="33000" />
+      <workItem from="1580194910124" duration="1117000" />
+      <workItem from="1580283350590" duration="306000" />
+      <workItem from="1580338838326" duration="1369000" />
+      <workItem from="1580371644640" duration="3469000" />
+      <workItem from="1580387891695" duration="12000" />
+      <workItem from="1580469544322" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/petrjanik/App.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/petrjanik/App.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/petrjanik/DemoGeneric.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
